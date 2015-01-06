@@ -1,4 +1,3 @@
-os-handbook
-===========
+# os-handbook
 
-Handbook about operating systems
+Handbook about operating systems.
