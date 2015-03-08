@@ -1,3 +1,3 @@
-# os-handbook
+# operating-systems-handbook
 
-Handbook about operating systems.
+Important operating system concepts.
